@@ -3,8 +3,5 @@
 
 
 ## Deployed on Firebase
-
-
-
 ### Visit https://react-website-1-e4007.web.app/
 
